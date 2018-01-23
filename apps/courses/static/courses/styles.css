@@ -1,0 +1,20 @@
+#course_data td, #course_data th{
+	border: 1px solid #ddd;
+	padding: 5px;
+}
+#course_data tr:nth-child(even){background-color: #f2f2f2;}
+
+#course_data tr:hover {background-color: #ddd;}
+
+#course_data th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #6c95d8;
+
+}
+#delete{
+	margin-right: 20px;
+	background-color: red;
+	
+}
